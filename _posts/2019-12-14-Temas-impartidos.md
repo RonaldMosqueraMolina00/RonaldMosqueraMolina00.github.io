@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temas Impartidos en Clase
+title: Temas en Clase
 ---
 
 ### Introducción a la ingeniería en software 
