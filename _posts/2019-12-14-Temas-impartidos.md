@@ -79,3 +79,37 @@ Un proyecto de software es un esfuerzo temporal que se lleva a cabo para crear u
 Software de aplicaciones: se usan para proveer servicios a clientes y ejecutar negocios de formas más eficientes.
 Software de sistemas: Se usa para operar y mantener un sistema informático. Permite a los usuarios usar los recursos del ordenador directamente y a través de otro software. 
 
+### Visión general del proceso de ingeniería de software:
+
+Con independencia del área, tamaño o complejidad del proyect, cualquier proyecto se encontrara al menos en una de las siguientes fases: 
+•	Definición - Análisis 
+•	Desarrollo – Diseño, codificación, prueba  
+•	Mantenimiento 
+Definición 
+
+### ¿Qué debe hacer el sistema?	
+
+•	Información que ha de manejar el sistema
+•	Necesidades de requerimiento
+•	Restricciones de diseño
+•	Interfaces del sistema con los usuarios y con otros sistemas 
+Desarrollo 
+
+### ¿Cómo construir el sistema?
+
+•	Se diseñan las estructuras de los datos y los programas.
+o	Como se caracterizan las interfaces 
+o	Como realizar el paso del diseño al lenguaje de programación 
+o	Como ha de realizarse la prueba 
+•	Se escriben y documentan los programas 
+•	Y se prueba el software construido 
+Mantenimiento
+•	Comienza una vez construido el sistema.
+•	Se centran en el cambio
+•	En esta fase recae la mayor porcentaje del costo de una sistema 
+Tipos de mantenimiento
+•	Correctivo: el programa no funciona correctamente, hay que modificarlo 
+•	Perfectivo: se modifica para obtener mas eficiencia 
+•	Adaptivo: adaptar el programa a los cambios de su entorno 
+
+
