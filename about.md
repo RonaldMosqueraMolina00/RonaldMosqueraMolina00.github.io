@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Inofrmacion personal
 
-### More Information
+# Ronald Mosqera 
 
-A place to include any other types of information that you'd like to include about yourself.
+Estudiante de la universidad guayaquil en la carrera de ingenieria en software
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ronald.mosqueram@ug.edu.ec](mailto:ronald.mosqueram@ug.edu.ec)
