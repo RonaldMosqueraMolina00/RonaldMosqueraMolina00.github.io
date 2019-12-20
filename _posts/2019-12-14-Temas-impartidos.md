@@ -4,11 +4,11 @@ title: Temas en Clase
 ---
 
 ### Introducción a la ingeniería en software 
-
-
-
-
-
+_____________________________________________
+_____________________________________________
+*
+*
+*
 #### Fundamentos de la IS (Ingeniería en Software)
 #### definición de IS 
 
