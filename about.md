@@ -8,8 +8,11 @@ permalink: /about/
 
 # Ronald Mosqera 
 
-Estudiante de la universidad guayaquil en la carrera de ingenieria en software
+Graduado de La Academia Naval Almirante Illingworth
 
+Estudiante de la universidad guayaquil 
+
+carrera de ingenieria en software
 ### Contact me
 
 [ronald.mosqueram@ug.edu.ec](mailto:ronald.mosqueram@ug.edu.ec)
