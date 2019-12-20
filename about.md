@@ -6,7 +6,7 @@ permalink: /about/
 
 # Inofrmacion personal
 
-### Ronald Mosqera 
+# Ronald Mosqera 
 
 Graduado de La Academia Naval Almirante Illingworth
 
